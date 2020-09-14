@@ -33,9 +33,3 @@ html {
 .right {
   border-left: 1px black solid;
 }
-.winner {
-    height: 50px;
-    width: 50px;
-    font-size:30px;
-    text-align: center;
-}
